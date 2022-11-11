@@ -136,12 +136,12 @@
               .h5.mb-2 Hojas
               p Encargadas de la respiración, transpiración y la síntesis de compuestos orgánicos por medio de la fotosíntesis, debido a que las hojas son capaces de absorber los rayos del sol. 
               p.mb-0 Sus partes:  lámina o limbo es la parte ensanchada de la hoja donde se puede observar el haz (cara superior) y el envés ( Cara inferior), el peciolo parte cilíndrica y base que es donde se une el peciolo con el tallo.
-            .BGR02.p-3(x="34%" y="35%" numero="4")
+            .BGR02.p-3(x="77%" y="45%" numero="4")
               .h5.mb-2 Flor
               p Estructura reproductiva de las plantas. Su función es la producción de semillas.
               p Está compuesta por cuatro partes fundamentales: corola, cáliz, estambres y pistilo.
               p.mb-0 Se pueden clasificar como completas (si cuentan con estas cuatro partes) e incompletas.
-            .BGR02.p-3(x="77%" y="45%" numero="5")
+            .BGR02.p-3(x="34%" y="35%" numero="5")
               .h5.mb-2 Fruto
               p Ovario maduro y desarrollado que contiene semillas. Lo conforma el pericarpio, que a su vez se divide en epicarpio (piel o capa externa); mesocarpio (carne o capa interna); y endocarpio (cáscara o capa interna leñosa). 
               p Diversos tipos de frutos se clasifican en simples y compuestos. 

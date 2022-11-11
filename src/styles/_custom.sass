@@ -1,19 +1,21 @@
 .banner-principal-decorativo
   &-1
-    animation: scale 5s ease-in-out infinite alternate
+    animation: rotation 5s infinite linear
     position: absolute
-    width: 100%
-    bottom: 2%
-    left: -2%
+    width: 108%
+    bottom: -1%
+    left: -8%
 
-@keyframes scale
+@keyframes rotation
   0%
-    transform: scale(1.0)
+    transform: rotate(0deg)
   100%
-    transform: scale(1.2)
+    transform: rotate(359deg)
   
 .cajon-b.color-acento-contenido:before
   background-color: #D9F2A1
+  opacity: unset
+  right: 30%
 
 .cajon.color-primario
   background-color: #F7D7C2
@@ -143,6 +145,14 @@
     height: 395px
   @media (max-width: $bp-max-md)
     height: 299px
+  
+.linea-tiempo-d__item__content__title
+  height: 40px
+  @media (max-width: $bp-max-xl)
+    height: 60px
+  @media (max-width: $bp-max-md)
+    height: 40px
+
   
 .w-80
   width: 80%
