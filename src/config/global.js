@@ -164,7 +164,7 @@ export default {
     {
       tema: 'Botánica',
       referencia:
-        'Muñoz, W. (2016). Texto básico para profesional en ingeniería forestal en el área de fisiología vegetal. Loreto-Perú: Departamento de Ecología y conservación de la facultad de ciencias forestales.',
+        'Muñoz, W. (2016). <em>Texto básico para profesional en ingeniería forestal en el área de fisiología vegetal</em>. Loreto-Perú: Departamento de Ecología y conservación de la facultad de ciencias forestales.',
       tipo: 'Libro',
       link:
         'http://www.iiap.org.pe/Archivos/Publicaciones/Publicacion_2013.pdf',
@@ -172,7 +172,7 @@ export default {
     {
       tema: 'Propagación vegetal',
       referencia:
-        'Iglesias Gutiérrez, L., Prieto Ruíz, J. Ángel, & Alarcón Bustamante, M. (2020). La propagación vegetativa de plantas forestales. Revista Mexicana de Ciencias Forestales, 21(79), 15-41.',
+        'Iglesias Gutiérrez, L., Prieto Ruíz, J. Ángel, & Alarcón Bustamante, M. (2020). La propagación vegetativa de plantas forestales. <em>Revista Mexicana de Ciencias Forestales</em>, 21(79), 15-41.',
       tipo: 'Revista',
       link:
         'http://cienciasforestales.inifap.gob.mx/index.php/forestales/article/view/998/2303',
@@ -180,7 +180,7 @@ export default {
     {
       tema: 'Propagación vegetal',
       referencia:
-        'Sisaro, D., Hagiwara, J. C., (2018). Propagación vegetativa por medio de estacas del tallo. 1a ed. Ediciones INTA. ISBN 978-987-521-681-5',
+        'Sisaro, D., Hagiwara, J. C., (2018). <em>Propagación vegetativa por medio de estacas del tallo</em>. 1a ed. Ediciones INTA. ISBN 978-987-521-681-5',
       tipo: 'Cartilla',
       link:
         'https://inta.gob.ar/sites/default/files/inta-_propagacion_vegetativa_por_medio_de_estacas_de_tallo.pdf',
@@ -188,7 +188,7 @@ export default {
     {
       tema: 'Siembra',
       referencia:
-        'Bravo, C., Lozano, Z., Hernández-Hernández, R. M., Cánchica, H., & González, I. (2008). Siembra directa como alternativa agroecológica para la transición hacia la sostenibilidad de las sábanas. Acta biológica Venezuela 28(1), 15-28.',
+        'Bravo, C., Lozano, Z., Hernández-Hernández, R. M., Cánchica, H., & González, I. (2008). <em>Siembra directa como alternativa agroecológica para la transición hacia la sostenibilidad de las sábanas</em>. Acta biológica Venezuela 28(1), 15-28.',
       tipo: 'Artículo',
       link:
         'https://www.researchgate.net/profile/Zenaida-Lozano/publication/275642819_Siembra_directa_como_alternativa_agroecologica_para_la_transicion_hacia_la_sostenibilidad_de_las_sabanas/links/554147e40cf2718618dc9e13/Siembra-directa-como-alternativa-agroecologica-para-la-transicion-hacia-la-sostenibilidad-de-las-sabanas.pdf',
@@ -247,30 +247,30 @@ export default {
   referencias: [
     {
       referencia:
-        'Chuncho, G., Chuncho, C., & Aguirre, Z. H. (2019). Anatomía y morfología vegetal. University of Nebraska de Loja: Loja, Ecuador.',
+        'Chuncho, G., Chuncho, C., & Aguirre, Z. H. (2019). <em>Anatomía y morfología vegetal</em>. University of Nebraska de Loja: Loja, Ecuador.',
       link:
         'https://unl.edu.ec/sites/default/files/archivo/2019-12/ANATOMI%CC%81A%20Y%20MORFOLOGI%CC%81A%20VEGETAL.pdf',
     },
     {
       referencia:
-        'Fernández, H. R. O., Fernández, A. M. O., & Álvarez, A. F. (2017). Manual de propagación de plantas superiores. Universidad autónoma metropolitana. México.ISBN:978-607-02-9297-2',
+        'Fernández, H. R. O., Fernández, A. M. O., & Álvarez, A. F. (2017). <em>Manual de propagación de plantas superiores</em>. Universidad autónoma metropolitana. México.ISBN:978-607-02-9297-2',
       link: 'https://www.biopasos.com/biblioteca/manual_plantas.pdf',
     },
     {
       referencia:
-        'Marinas Benavides, M. I. (2020). Operaciones básicas en viveros y centros de jardinería. MF0520. Editorial Tutor Formación.',
+        'Marinas Benavides, M. I. (2020). <em>Operaciones básicas en viveros y centros de jardinería</em>. MF0520. Editorial Tutor Formación.',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/131602',
     },
     {
       referencia:
-        'Rodas, S. Y. R., Caro-Tovar, E., Guacaneme-Barrera, C. M., Medina-Sierra, M., & Cerón-Muñoz, M. F. (2022). Establecimiento y manejo del cultivo de cacao en economías familiares. Fondo Editorial Biogénesis, 118-118.',
+        'Rodas, S. Y. R., Caro-Tovar, E., Guacaneme-Barrera, C. M., Medina-Sierra, M., & Cerón-Muñoz, M. F. (2022). <em>Establecimiento y manejo del cultivo de cacao en economías familiares</em>. Fondo Editorial Biogénesis, 118-118.',
       link:
         'https://revistas.udea.edu.co/index.php/biogenesis/article/view/347506',
     },
     {
       referencia:
-        'Villegas Villegas, I. (2018). Siembra y/o trasplante de cultivos hortícolas y flor cortada. UF0014 (2a. ed.). IC Editorial.',
+        'Villegas Villegas, I. (2018). <em>Siembra y/o trasplante de cultivos hortícolas y flor cortada</em>. UF0014 (2a. ed.). IC Editorial.',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/59177',
     },

@@ -34,7 +34,7 @@
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.1 Métodos y material vegetal
 
-    p Para poder propagar especies vegetales, en condiciones ideales que permitan su desarrollo, se requiere de material vegetal (semillas, polen, partes de la planta o tejido vegetal) con criterios y condiciones adecuadas de calidad. Hay gran variedad de métodos para propagar una planta, que van desde procedimientos sencillos (estacas) hasta los más complejos, que incluyen técnicas de biotecnología (cultivo in vitro). De acuerdo con Marinas Benavides, M. I. (2020) las técnicas actuales son la reproducción sexual y la asexual.
+    p Para poder propagar especies vegetales, en condiciones ideales que permitan su desarrollo, se requiere de material vegetal (semillas, polen, partes de la planta o tejido vegetal) con criterios y condiciones adecuadas de calidad. Hay gran variedad de métodos para propagar una planta, que van desde procedimientos sencillos (estacas) hasta los más complejos, que incluyen técnicas de biotecnología (cultivo #[em in vitro]). De acuerdo con Marinas Benavides, M. I. (2020) las técnicas actuales son la reproducción sexual y la asexual.
 
     .row.justify-content-center.mb-4
       .col-lg-7.BGRS04.p-4.mb-lg-0.mb-4(data-aos="fade-right")
@@ -93,9 +93,9 @@
               .h4.text-center.mt-5 OTRAS
               p.mb-0.text-center Buena disponibilidad.
               p.mb-0.text-center Bajo costo.
-              p.mb-0.text-center Facilidad para preparar y mezclar
+              p.mb-0.text-center Facilidad para preparar y mezclar.
               p.mb-0.text-center Simple y estable proceso de desinfección.
-              p.mb-0.text-center Resistente a cambio ambientales y externos
+              p.mb-0.text-center Resistente a cambio ambientales y externos.
 
     AcordionA.mb-5(tipo="b" clase-tarjeta="BGR06")
       .row.justify-content-center.align-items-center(titulo="Producción del material vegetal")
@@ -178,7 +178,7 @@
         .row
           .col-lg-10
             .h4 Laboratorios
-            p.mb-0 Los #[b laboratorios] son lugares donde por medio de herramientas tecnológicas se realizan procesos de propagación in situ (clonación) en condiciones estériles, libres de virus y bacterias, que permitan la obtención de altos volúmenes de plantas y la regeneración de genotipos deseados.
+            p.mb-0 Los #[b laboratorios] son lugares donde por medio de herramientas tecnológicas se realizan procesos de propagación #[em in situ] (clonación) en condiciones estériles, libres de virus y bacterias, que permitan la obtención de altos volúmenes de plantas y la regeneración de genotipos deseados.
       .BG01.p-md-5.p-4(titulo="Maquinarias, herramientas y equipos" :icono="require('@/assets/curso/tema2/img20.svg')")
         .row
           .col-lg-10

@@ -3,10 +3,6 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    .titulo-sexto.color-primario.mb-4(data-aos="fade-right")
-      h4.mb-2 Técnico laboral en Producción Agroecológica
-      p.mb-0 Principios agroecológicos para la siembra
-
     p.mb-5 A continuación encontrará un resumen de lo visto en el componente sobre principios agroecológicos para la siembra, las herramientas de gestión y planificación, rotación y seguimiento a las fases del cultivo y la asociación entre plantas y animales para diversificar la huerta y la sanidad de los cultivos. Esto podrá ser visualizado en el siguiente mapa conceptual:
 
     .row.justify-content-center

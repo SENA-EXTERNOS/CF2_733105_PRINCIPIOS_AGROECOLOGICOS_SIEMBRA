@@ -67,22 +67,25 @@
                 span Tipos de trazado
               .row.justify-content-around.mb-4
                 .col-lg-4.col-6
-                  figure.mb-4
+                  .h4.text-center Cuadrado o marco
+                  figure
                     img.w-80(src="@/assets/curso/tema3/img05.png")
-                  .h4.text-center.mb-0 Cuadrado o marco 
                 .col-lg-4.col-6
-                  figure.mb-4
+                  .h4.text-center Rectangular
+                  figure
                     img(src="@/assets/curso/tema3/img06.png")
-                  .h4.text-center.mb-0 Rectangular
+                  
               .row.justify-content-around
                 .col-lg-4.col-6
-                  figure.mb-4
+                  .h4.text-center Tresbolillo
+                  figure
                     img(src="@/assets/curso/tema3/img07.png")
-                  .h4.text-center.mb-0 Tresbolillo
+                  
                 .col-lg-4.col-6
-                  figure.mb-4
+                  .h4.text-center Cinco oros o quincunce
+                  figure
                     img(src="@/assets/curso/tema3/img08.png")
-                  .h4.text-center.mb-0 Cinco oros o quincunce
+                  
               
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.col-6.mb-lg-0.mb-4(data-aos="fade-right")
