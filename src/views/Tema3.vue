@@ -18,7 +18,7 @@
       figure.mb-4(data-aos="zoom-in")
         img(src="@/assets/curso/tema3/img02.png")
 
-    p En las labores de siembra se hace indispensable realizar el trazado del terreno según las características del cultivo y la pendiente o inclinación del terreno, como veremos:
+    p En las labores de siembra, se hace indispensable realizar el trazado del terreno, según las características del cultivo y la pendiente o inclinación del terreno.
 
     separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -92,17 +92,23 @@
         img(src="@/assets/curso/tema3/img09.png")
       .col-lg-7(data-aos="fade-left")
         .cajon.color-primario.p-4
-          p.mb-0 Trazar el terreno que se va a sembrar va de la mano con las condiciones que deben tenerse en cuenta a la hora de establecer un cultivo productivo en función del riego y la absorción de nutrientes con respecto a la inclinación y las características propias de cada predio.
+          p.mb-0 Trazar el terreno que se va a sembrar, va de la mano con las condiciones que deben tenerse en cuenta, al establecer un cultivo productivo, en función del riego y la absorción de nutrientes (inclinación y características propias de cada predio).
 
 
-    separador
-    #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 3.2 Condiciones para la siembra
+    .row.mt-5
+      h3 Condiciones para la siembra
+
+      p Cumplir una serie de requisitos o condiciones, hace posible el logro de una adecuada germinación y el desarrollo de las plantas; requisitos relacionados con el estado y el alistamiento de las semillas que, a su vez, deben ser tratadas y almacenadas de forma adecuada y estar en el término apropiado, es decir, frescas y no haber excedido su fecha de caducidad o su período favorable de germinación. 
+
+      p En general, las principales características para que las semillas sean de buena calidad son: su sanidad, el vigor, el poder germinativo y la pureza física y varietal.
+
+      p Las siguientes, son las condiciones más importantes, para tener en cuenta, en la siembra y utilidad de las semillas:
+
     
     .BGIMG04.p-md-5.p-4
       p Una serie de requisitos o condiciones hace posible el logro de una adecuada germinación y el desarrollo de las plantas, requisitos relacionados con el estado y el alistamiento de las semillas, que a su vez deben ser tratadas y almacenadas de forma adecuada, además de estar en el término adecuado; es decir, frescas, y no haber excedido su fecha de caducidad o su período favorable de germinación. En general, las principales características para que las semillas sean de buena calidad son su sanidad, el vigor, el poder germinativo y la pureza física y varietal.
       
-      ImagenInfografica.color-primario.mb-5
+      ImagenInfografica.color-acento-botones.mb-5
         template(v-slot:imagen)
           figure
             img(src='@/assets/curso/tema3/img10.svg')
@@ -119,13 +125,9 @@
           .h5.mb-2 Luz
           p.mb-0 Aunque para germinar no se requiere, para procesos de formación de estructuras, sí. Es aconsejable entre 4 y 6 horas diarias de luz. 
 
-    .row.justify-content-center.mb-4
-      .col-lg-10.cajon.color-secundario.p-4(data-aos="flip-up")
-        p.mb-0 Una vez acondicionado el terreno para el establecimiento del cultivo, conocer cómo hacer los arreglos ―según el crecimiento y las condiciones propias de cada cultivo―, hace que el espacio y la absorción de la luz sea más eficiente, como se ilustra en el siguiente video.
+    .row.mt-3
+      p Una vez acondicionado el terreno para el establecimiento del cultivo, conocer cómo realizar los arreglos (según el crecimiento y las condiciones propias de cada cultivo), hace que el espacio y la absorción de la luz sea más eficiente, como se ilustra en el siguiente video:
     
-    separador
-    #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 3.3 Arreglos productivos
     
     figure.mb-5(data-aos="zoom-in")
       .video
@@ -133,13 +135,15 @@
 
     .row.justify-content-center.mb-4
       .col-lg-10.cajon.color-secundario.p-4(data-aos="flip-up")
-        p.mb-0 La actividad de siembra, la forma como se traza el terreno, o los arreglos que hacemos en los cultivos, son medidas de eficiencia que permiten mejorar los rendimientos. Actualmente se conocen algunas tecnologías que permiten ahorrar recursos, energía y mejorar la productividad de los cultivos.
+        p.mb-0 La actividad de siembra, la forma como se traza el terreno y/o los arreglos que se hacen en los cultivos, son medidas de eficiencia que permiten mejorar los rendimientos. Actualmente, se conocen algunas tecnologías que permiten ahorrar recursos, energía y mejorar la productividad de los cultivos.
 
     separador
-    #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 3.4 Tecnologías para la siembra
+    #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 3.3 Tecnologías para la siembra
 
-    p.mb-5 Para realizar el proceso de siembra se requiere de maquinaria, herramientas y equipos. Actualmente, con la evolución en el avance de la tecnológica y sumado el auge de la conciencia ambiental, la sostenibilidad y eficiencia en el uso de recursos naturales, día a día en la agricultura se emplean tecnologías que brindan mayor optimización y eficiencia al utilizar la automatización en las labores culturales ―en este caso, la siembra― mediante el uso de maquinaria y equipos con Global Positioning System (GPS).
+    p.mb-5 Con la evolución y el avance tecnológico, más el auge de la conciencia ambiental, la sostenibilidad y eficiencia en el uso de recursos naturales, se emplean tecnologías que brindan mayor optimización y eficiencia en las labores culturales, en este caso, la siembra, mediante el uso de maquinaria y equipos con Global Positioning System (GPS).
+
+    p Para realizar el proceso de siembra, se requiere de maquinaria, herramientas, equipos, elementos y acciones como:
 
     .row.justify-content-center.mb-4
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
@@ -179,13 +183,11 @@
                     <i class="fas fa-snowflake" style="color:#81AD20;"></i>
                     | Cosecha
 
-    .cajon.color-primario.p-4(data-aos="flip-up")
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-8.order-lg-1.order-2
-          p Se cierra este componente formativo, donde abordamos los principios agroecológicos para la siembra y el manejo de la producción partiendo desde el conocimiento de la fisiología y la morfología vegetal, es decir, las fases y ciclo de vida de las plantas, sus partes, arquitectura, procesos de crecimiento y desarrollo vegetativo, los requerimientos y condiciones óptimas para el apropiado desarrollo y procesos de propagación vegetal ―por medio de técnicas sexual o asexual― y las diferentes técnicas de siembra (directa o indirecta) y tipos de trazados. Todo para lograr producciones eficientes y sostenibles.
-          p.mb-0 Estimado aprendiz, le invitamos a explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello diríjase al menú principal, en donde encontrará la síntesis, una actividad didáctica y material complementario. 
-        .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src="@/assets/curso/tema3/img12.png")
+    
+    .row.justify-content-center.align-items-center
+      .col-lg-10
+        .cajon.color-primario.p-4(data-aos="flip-up")
+            p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 
 </template>
 

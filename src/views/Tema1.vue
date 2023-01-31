@@ -15,6 +15,9 @@
       .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema1/img01.png")
     
+    .row.mt-5
+      p Estos son algunos aspectos claves que se deben tener en cuenta, sobre la botánica:
+
     TabsA.color-secundario.mb-5(data-aos="zoom-in")
       .BGR01.p-md-5.p-4(titulo="Desarrollo de las plantas")
         .h4 Desarrollo de las plantas
@@ -33,16 +36,19 @@
         .cajon.color-primario.p-4
           p.mb-0 Así como la botánica estudia las plantas y las familias o especies, la fisiología vegetal es una apartado de la botánica, que describe la forma como respiran y se alimentan las plantas. Esta área es importante porque de ella depende la forma como absorben los nutrientes, y sus requerimientos en cuanto a crecimiento y desarrollo vegetativo se refiere.
           
-    separador
-    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.1 Fisiología vegetal
+    .row.mt-5
+      h3 Fisiología vegetal
+
+      p La fisiología vegetal es la ciencia que analiza el desarrollo y comportamiento de las plantas, mediante el estudio del funcionamiento, procesos y funciones vitales que se llevan a cabo, a lo largo de su ciclo de vida.
+
+      p A continuación, se presentan algunas generalidades de la fisiología vegetal, que estiman consideración:
     
     .BG01.mb-5(data-aos="zoom-in")
       TabsC.color-acento-botones
-        .row.justify-content-around.align-items-center.p-md-4.p-3(titulo="Fisiología vegetal")
+        .row.justify-content-around.align-items-center.p-md-4.p-3(titulo="Función de la fisiología vegetal")
           .col-lg-6.order-lg-1.order-2
-            .h4 Fisiología vegetal
-            p.mb-0 La #[b fisiología vegetal] es la ciencia que #[b analiza el desarrollo y comportamiento de las plantas] mediante el estudio del funcionamiento, procesos y funciones vitales que se llevan a cabo a lo largo de su ciclo de vida. Brinda herramientas para comprender su metabolismo y, específicamente, responde el interrogante de qué es lo que mantiene vivas las plantas; así, el estudio se divide en #[b fisiología del metabolismo, que abarca las transformaciones químicas y físicas] que se dan en los órganos y células vegetales; y la #[b fisiología del desarrollo, que está enfocada al crecimiento, desarrollo y reproducción].
+            .h4 Función de la fisiología vegetal
+            p.mb-0 Brinda herramientas para comprender su metabolismo y, específicamente, responde el interrogante de qué es lo que mantiene vivas las plantas; así, el estudio se divide en fisiología del metabolismo, que abarca las transformaciones químicas y físicas que se dan en los órganos y células vegetales; y la fisiología del desarrollo, que está enfocada al crecimiento, desarrollo y reproducción.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img03.png")
         .row.justify-content-around.align-items-center.p-md-4.p-3(titulo="Ciclo de vida")
@@ -70,18 +76,15 @@
           .col-lg-2.col-3.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img07.png")
 
-    p Cuando hablamos de desarrollo vegetativo de las plantas se especifica la manera como se alimentan e interactúan en el ecosistema y cuál es su ciclo reproductivo para la etapa de semillas y cultivo. Dicho ciclo se explica a continuación:
+    p Cuando hablamos de desarrollo vegetativo de las plantas se especifica la manera como se alimentan e interactúan en el ecosistema y cuál es su ciclo reproductivo para la etapa de semillas y cultivo.
 
-    separador
-    .BGIMG01.p-md-5.p-4
-      #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-        h2 1.2 Crecimiento y desarrollo vegetativo
+    .row.mt-5
+      h3 Crecimiento y desarrollo vegetativo
 
-      p El proceso de construcción de las plantas se da a lo largo de toda su vida mediante una serie de eventos que tienen características y necesidades diferentes. El crecimiento y desarrollo vegetativo, por ejemplo, le aporta a la sucesiva creación del cuerpo de la planta, la adaptación a su entorno y la enseña y la prepara para reproducirse y conseguir su sustento. 
-      
-      .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
-        h5 Figura 1
-        span Etapas del desarrollo de las plantas
+      p El proceso de construcción de las plantas se da a lo largo de toda su vida mediante una serie de eventos que tienen características y necesidades diferentes. El crecimiento y desarrollo vegetativo, por ejemplo, le aporta a la sucesiva creación del cuerpo de la planta, la adaptación a su entorno y la enseña y la prepara para reproducirse y conseguir su sustento.
+
+      p Analice los elementos que, sobre el crecimiento y desarrollo vegetativo, se exponen a continuación:
+
       
       ImagenInfografica.color-acento-botones.mb-5
         template(v-slot:imagen)
@@ -89,10 +92,12 @@
             img(src='@/assets/curso/tema1/img08.svg')
         .BGR02.p-3(x="7%" y="48%" numero="1")
           .h5.mb-2 Semillas y Germinación
-          p.mb-0 El desarrollo se da a través de una operación organizada que requiere de un gran número de señales y abarca específicamente dos procesos esenciales de las plantas: el crecimiento y la diferenciación. El crecimiento hace referencia al conjunto de cambios cuantitativos que se dan de forma gradual y progresiva en lo concerniente al tamaño; la diferenciación tiene que ver con los cambios de tipo cualitativo que están relacionados con la estructura y función. En conclusión, dichos cambios permiten la transformación de un zigoto en una planta completa capaz de reproducirse.
+          p.mb-0 El desarrollo se da a través de una operación organizada que requiere de un gran número de señales y abarca específicamente dos procesos esenciales de las plantas: el crecimiento y la diferenciación. El crecimiento hace referencia al conjunto de cambios cuantitativos que se dan de forma gradual y progresiva en lo concerniente al tamaño; la diferenciación tiene que ver con los cambios de tipo cualitativo que están relacionados con la estructura y función. En conclusión, dichos cambios permiten la transformación de un zigoto en una planta completa, capaz de reproducirse.
+
         .BGR02.p-3(x="27%" y="80%" numero="2")
           .h5.mb-2 Formación de semillas
-          p.mb-0 Durante el crecimiento, la planta incrementa de forma irreversible su tamaño y volumen por el alargamiento o expansión celular, pero para que la planta no solo crezca, sino que también alcance su desarrollo, se requiere que las células se especialicen, lo que genera cambios denominados conocidos como diferenciación.
+          p.mb-0 Durante el crecimiento, la planta incrementa de forma irreversible su tamaño y volumen por el alargamiento o expansión celular, pero para que la planta no solo crezca, sino que también alcance su desarrollo, se requiere que las células se especializan, lo que genera cambios denominados conocidos como diferenciación.
+          
         .BGR02.p-3(x="67%" y="88%" numero="3")
           .h5.mb-2 Germinación y desarrollo vegetativo
           p.mb-0 Pero el proceso de desarrollo, a pesar de ser una operación organizada, cuenta con gran variedad de formas y hábitos de crecimiento que son producto de las distintas especies existentes y de los cambios de las condiciones ambientales. Esto conlleva a que las plantas deben garantizar durante todo su crecimiento la obtención en cantidades apropiadas de materia y energía; por lo tanto, requieren de una evolución constante y la adaptación de sus partes: las raíces, encargadas de obtener del suelo el agua y los nutrientes; y el tallo y las hojas, que emplean de forma directa la energía luminosa.
@@ -100,22 +105,20 @@
           .h5.mb-2 Floración, fructificación y senescencia
           p.mb-0 El desarrollo de las plantas se caracteriza por el crecimiento a lo largo de toda su existencia y la construcción de su forma y arquitectura. #[b Al finalizar la formación] del embrión en semilla, tras la germinación nace una plántula, con tallo y raíz, mediante un grupo de células inicia el crecimiento de la parte aérea de la planta y luego da paso al proceso de floración. Aquí finaliza el crecimiento del tallo, cuando nace la flor y se da inicio a la fase reproductiva y al proceso de fructificación, que es donde se origina la formación de los frutos por medio de la fecundación del ovario de la flor, lo que origina que esta se convierta en fruto.
         
-      p Así como las plantas tienen un desarrollo o crecimiento propio, también poseen características particulares en la forma como se distribuyen sus hojas. ¿Cómo es la arquitectura de una planta y qué parte de ella sirve para su reproducción o aprovechamiento alimenticio? Veamos:
+      p Así como las plantas tienen un desarrollo o crecimiento propio, también poseen características particulares en la forma como se distribuyen sus hojas. 
 
-    separador
-    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.3 Morfología y arquitectura de la planta
+    .row.mt-5
+      h3 Morfología y arquitectura de la planta
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
         .cajon-b.color-acento-contenido.cajon-end.p-4
-          p.mb-0 El cuerpo de las plantas, como lo indican Chuncho, G., Chuncho, C., Aguirre, Z. (2019), cuenta con dos sistemas de órganos denominados sistema subterráneo o radicular, el cual incluye las raíces, bulbos, rizomas, tubérculos y en general todo lo que se encuentra por debajo del suelo; y el sistema aéreo o vástago, que corresponde a la parte de la planta que va por encima del suelo y comprende órganos como tallo, hojas, flores y fruto.
+          p.mb-0 El cuerpo de las plantas, como lo indican Chuncho, G., Chuncho, C., Aguirre, Z. (2019), cuenta con dos sistemas de órganos denominados sistema subterráneo o radicular, el cual incluye las raíces, bulbos, rizomas, tubérculos y en general todo lo que se encuentra por debajo del suelo; y el sistema aéreo o vástago, que corresponde a la parte de la planta que va por encima del suelo y comprende órganos como tallo, hojas, flores y fruto. 
+          br 
+          p ¿Cómo es la arquitectura de una planta y qué parte de ella sirve para su reproducción o aprovechamiento alimenticio? Identifíquelo en el esquema interactivo que se muestra seguidamente:
+
       .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema1/img09.png") 
-
-    .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
-      h5 Figura 2
-      span Arquitectura de las plantas
 
     .BGR03.p-3.mb-4
       .row.justify-content-center
@@ -151,7 +154,7 @@
 
     .row.justify-content-center
       .col-lg-10.cajon.color-secundario.p-4(data-aos="flip-up")
-        p.mb-0 Todas las plantas se propagan de manera diferente, sea de forma sexual o asexual. A continuación veremos cuáles de sus partes, según la formación, nos sirven para reproducirlas en los cultivos.         
+        p.mb-0 Todas las plantas se propagan de manera diferente, sea de forma sexual o asexual. 
 
 </template>
 

@@ -31,26 +31,6 @@ export default {
         numero: '1',
         titulo: 'Botánica',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Fisiología vegetal',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Crecimiento y desarrollo vegetativo',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Morfología y arquitectura de la planta',
-            hash: 't_1_3',
-          },
-        ],
       },
 
       {
@@ -59,32 +39,6 @@ export default {
         numero: '2',
         titulo: 'Propagación vegetal',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Métodos y material vegetal',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Sustratos y medios de enraizamiento',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Desinfectantes: Tipos y técnicas',
-            hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Instalaciones, herramientas y equipos',
-            hash: 't_2_4',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -172,7 +126,7 @@ export default {
     {
       tema: 'Propagación vegetal',
       referencia:
-        'Iglesias Gutiérrez, L., Prieto Ruíz, J. Ángel, & Alarcón Bustamante, M. (2020). La propagación vegetativa de plantas forestales. <em>Revista Mexicana de Ciencias Forestales</em>, 21(79), 15-41.',
+        'Iglesias Gutiérrez, L., Prieto Ruíz, J. Á. & Alarcón Bustamante, M. (2020). La propagación vegetativa de plantas forestales. <em>Revista Mexicana de Ciencias Forestales, 21</em>(79), p. 15–41.',
       tipo: 'Revista',
       link:
         'http://cienciasforestales.inifap.gob.mx/index.php/forestales/article/view/998/2303',
@@ -180,7 +134,7 @@ export default {
     {
       tema: 'Propagación vegetal',
       referencia:
-        'Sisaro, D., Hagiwara, J. C., (2018). <em>Propagación vegetativa por medio de estacas del tallo</em>. 1a ed. Ediciones INTA. ISBN 978-987-521-681-5',
+        'Sisaro, D. y Hagiwara, J. C. (2018). <em>Propagación vegetativa por medio de estacas del tallo</em>. 1a ed. Ediciones INTA.',
       tipo: 'Cartilla',
       link:
         'https://inta.gob.ar/sites/default/files/inta-_propagacion_vegetativa_por_medio_de_estacas_de_tallo.pdf',
@@ -188,7 +142,7 @@ export default {
     {
       tema: 'Siembra',
       referencia:
-        'Bravo, C., Lozano, Z., Hernández-Hernández, R. M., Cánchica, H., & González, I. (2008). <em>Siembra directa como alternativa agroecológica para la transición hacia la sostenibilidad de las sábanas</em>. Acta biológica Venezuela 28(1), 15-28.',
+        'Bravo, C., Lozano, Z., Hernández-Hernández, R. M., Cánchica, H., & González, I. (2008). Siembra directa como alternativa agroecológica para la transición hacia la sostenibilidad de las sábanas. <em>Acta biológica Venezuela, 28</em>(1), p. 15-28.',
       tipo: 'Artículo',
       link:
         'https://www.researchgate.net/profile/Zenaida-Lozano/publication/275642819_Siembra_directa_como_alternativa_agroecologica_para_la_transicion_hacia_la_sostenibilidad_de_las_sabanas/links/554147e40cf2718618dc9e13/Siembra-directa-como-alternativa-agroecologica-para-la-transicion-hacia-la-sostenibilidad-de-las-sabanas.pdf',
@@ -247,13 +201,13 @@ export default {
   referencias: [
     {
       referencia:
-        'Chuncho, G., Chuncho, C., & Aguirre, Z. H. (2019). <em>Anatomía y morfología vegetal</em>. University of Nebraska de Loja: Loja, Ecuador.',
+        'Chuncho, G., Chuncho, C. & Aguirre, Z. H. (2019). <em>Anatomía y morfología vegetal</em>. University of Nebraska de Loja: Loja, Ecuador. ',
       link:
         'https://unl.edu.ec/sites/default/files/archivo/2019-12/ANATOMI%CC%81A%20Y%20MORFOLOGI%CC%81A%20VEGETAL.pdf',
     },
     {
       referencia:
-        'Fernández, H. R. O., Fernández, A. M. O., & Álvarez, A. F. (2017). <em>Manual de propagación de plantas superiores</em>. Universidad autónoma metropolitana. México.ISBN:978-607-02-9297-2',
+        'Fernández, H. R. O., Fernández, A. M. O. & Álvarez, A. F. (2017). <em>Manual de propagación de plantas superiores</em>. Universidad autónoma metropolitana. México.',
       link: 'https://www.biopasos.com/biblioteca/manual_plantas.pdf',
     },
     {
@@ -264,13 +218,18 @@ export default {
     },
     {
       referencia:
-        'Rodas, S. Y. R., Caro-Tovar, E., Guacaneme-Barrera, C. M., Medina-Sierra, M., & Cerón-Muñoz, M. F. (2022). <em>Establecimiento y manejo del cultivo de cacao en economías familiares</em>. Fondo Editorial Biogénesis, 118-118.',
+        'Robles, S., Caro, E., Guacaneme, C., Medina, M. & Cerón, M. (2022). <em>Establecimiento y manejo del cultivo de cacao en economías familiares.</em>',
+      link: '',
+    },
+    {
+      referencia:
+        'Rodas, S. Y. R., Caro-Tovar, E., Guacaneme-Barrera, C. M., Medina-Sierra, M., & Cerón-Muñoz, M. F. (2022). <em>Establecimiento y manejo del cultivo de cacao en economías familiares</em>. Fondo Editorial Biogénesis. ',
       link:
         'https://revistas.udea.edu.co/index.php/biogenesis/article/view/347506',
     },
     {
       referencia:
-        'Villegas Villegas, I. (2018). <em>Siembra y/o trasplante de cultivos hortícolas y flor cortada</em>. UF0014 (2a. ed.). IC Editorial.',
+        'Villegas Villegas, I. (2018). <em>Siembra y/o trasplante de cultivos hortícolas y flor cortada</em>. UF0014 (2a. ed.). IC Editorial. ',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/59177',
     },

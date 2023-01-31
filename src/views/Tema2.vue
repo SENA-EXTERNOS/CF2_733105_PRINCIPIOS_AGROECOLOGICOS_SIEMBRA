@@ -15,6 +15,8 @@
         .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
           img(src="@/assets/curso/tema2/img01.png")
     
+      p.mt-5 Estos son algunos aspectos claves que se deben tener en cuenta, sobre la botánica:
+
       .BGIMG03.p-4.mb-4(data-aos="zoom-in")
         SlyderA(tipo="b")
           .row.justify-content-center.align-items-center
@@ -24,18 +26,19 @@
               img(src="@/assets/curso/tema2/img02.svg")
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
-              p.mb-0 Además, a la hora de realizar el proceso de propagación vegetal es importante tener en cuenta el tipo y métodos de propagación, los medios de germinación (sustratos), la desinfección de los medios, las condiciones ambientales, el tipo de cultivo, el proceso de fertilización, el riego, la rastreabilidad del proceso, los materiales de propagación, los fertilizantes, la gestión de residuos, la salud y seguridad en el trabajo. En resumen, es importante tener en cuenta las normas vigentes que garanticen el éxito del proceso de propagación. 
+              p.mb-0 Además, en la propagación vegetal, es importante tener en cuenta el tipo y métodos de propagación, los medios de germinación (sustratos), la desinfección de los medios, las condiciones ambientales, el tipo de cultivo, la fertilización, el riego, la rastreabilidad del proceso, los materiales de propagación, los fertilizantes, la gestión de residuos, la salud y la seguridad en el trabajo. En resumen, es importante tener en cuenta las normas vigentes que garanticen el éxito de todo el evento de propagación.
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               img(src="@/assets/curso/tema2/img03.svg")
       
       p Existen diferentes formas de aprovechar las partes reproductivas de las plantas. Para la multiplicación de especies, los métodos de reproducción vegetal y qué materiales debemos utilizar, veamos lo siguiente:
 
-    separador
-    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.1 Métodos y material vegetal
+    .row.mt-5
+      h3 Métodos y material vegetal
 
-    p Para poder propagar especies vegetales, en condiciones ideales que permitan su desarrollo, se requiere de material vegetal (semillas, polen, partes de la planta o tejido vegetal) con criterios y condiciones adecuadas de calidad. Hay gran variedad de métodos para propagar una planta, que van desde procedimientos sencillos (estacas) hasta los más complejos, que incluyen técnicas de biotecnología (cultivo #[em in vitro]). De acuerdo con Marinas Benavides, M. I. (2020) las técnicas actuales son la reproducción sexual y la asexual.
+      p Para poder propagar especies vegetales, en condiciones ideales que permitan su desarrollo, se requiere de material vegetal (semillas, polen, partes de la planta o tejido vegetal) con criterios y condiciones adecuadas de calidad. Hay gran variedad de métodos para propagar una planta, que van desde procedimientos sencillos (estacas) hasta los más complejos, que incluyen técnicas de biotecnología (cultivo in vitro). De acuerdo con Marinas Benavides, M. I. (2020) las técnicas actuales son la reproducción sexual y la asexual.
 
+      p A continuación, conozca algunas de las principales técnicas de propagación vegetal:
+    
     .row.justify-content-center.mb-4
       .col-lg-7.BGRS04.p-4.mb-lg-0.mb-4(data-aos="fade-right")
         img(src="@/assets/curso/tema2/img04.svg")
@@ -50,16 +53,16 @@
 
     p Adicional a los métodos de reproducción, es fundamental conocer el tipo de suelo o sustrato para el medio de enraizamiento donde vamos a reproducir el cultivo; esto con el fin de lograr su desarrollo óptimo. Se presentan enseguida unas características que resulta importante saber:
 
-    separador
-    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.2 Sustratos y medios de enraizamiento
+    .row.mt-5
+      h3 Sustratos y medios de enraizamiento
+
+      p Los sustratos son materiales que reemplazan las funciones del suelo. Sirven como anclaje y enraizamiento del cultivo y suministro de nutrientes, agua y oxígeno, entre otras.
+
+      p Las siguientes, son algunas de las características y propiedades más importantes, de los sustratos:
+
     
     .BGIMG04.p-md-5.p-4
       p Los sustratos son materiales que reemplazan las funciones del suelo. Sirven como anclaje y enraizamiento del cultivo y suministro de nutrientes, agua y oxígeno.
-
-      .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
-        h5 Figura 3
-        span Propiedades y características de los sustratos
       
       .row.justify-content-center.mb-4
         .col-lg-3.col-md-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
@@ -97,6 +100,9 @@
               p.mb-0.text-center Simple y estable proceso de desinfección.
               p.mb-0.text-center Resistente a cambio ambientales y externos.
 
+    .row.mt-3
+      p Sobre los sustratos y los medios de enraizamiento, es importante tener en cuenta, algunas consideraciones. A continuación, se enuncian dichas consideraciones, de las cuales se recomienda que tome nota en su libreta personal de apuntes:
+
     AcordionA.mb-5(tipo="b" clase-tarjeta="BGR06")
       .row.justify-content-center.align-items-center(titulo="Producción del material vegetal")
         .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
@@ -119,15 +125,12 @@
         .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
           img(src="@/assets/curso/tema2/img12.svg") 
 
-    .row.justify-content-center
-      .col-lg-10.cajon.color-secundario.p-4(data-aos="flip-up")
-        p.mb-0 Para la adecuación del sustrato donde se siembran los cultivos, la desinfección del suelo, así como los métodos y técnicas más óptimas para esta labor, tienen unas características particulares que se deben conocer antes de iniciar la labor de siembra.
-    
-    separador
-    #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.3 Desinfectantes: tipos y técnicas
-    
-    p Los desinfectantes son productos que se aplican a los sustratos y material vegetativo con el fin de eliminar o frenar el crecimiento de microorganismos patógenos, cuando existe sospecha de contaminación, se tienen especies de gran valor (económico, investigativo, etc.) o son muy susceptibles a enfermedades.
+    .row.mt-5
+      h3 Desinfectantes: tipos y técnicas
+
+      p Los desinfectantes son productos que se aplican a los sustratos y material vegetativo con el fin de eliminar o frenar el crecimiento de microorganismos patógenos, cuando existe sospecha de contaminación, se tienen especies de gran valor (económico, investigativo, etc.) o son muy susceptibles a enfermedades.
+
+      p Estas son algunas características y particularidades que se deben conocer antes de seleccionar y aplicar desinfectantes en las labores de siembra:
 
     .BGIMG03.p-4.mb-4(data-aos="zoom-in")
       SlyderA(tipo="b")
@@ -159,15 +162,18 @@
     
     p La manera como vamos a iniciar la siembra, en qué tipo de sustrato, cómo deben ser esas instalaciones y cuáles son los equipos y herramientas que facilitan esta tarea son algunas de las características que se describen en el siguiente apartado:
 
-    separador
-    #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.4 Instalaciones, herramientas y equipos
+    .row.mt-5
+      h3 Instalaciones, herramientas y equipos
+
+      p Como todo proceso, la propagación vegetal sistemática, requiere el uso y aplicación de instalaciones, herramientas y equipos, especializados o no, que favorezcan la efectividad de los alcances y resultados esperados.
+
+      p Dentro del compendio de elementos importantes para la propagación vegetal, están:
     
     TabsB.color-acento-contenido.mb-5(data-aos="zoom-in")
-      .BG01.p-md-5.p-4(titulo="Propagación vegetal" :icono="require('@/assets/curso/tema2/img17.svg')")
+      .BG01.p-md-5.p-4(titulo="Instalaciones" :icono="require('@/assets/curso/tema2/img17.svg')")
         .row
           .col-lg-10
-            .h4 Propagación vegetal
+            .h4 Instalaciones
             p.mb-0 Los procesos de #[b propagación vegetal] se pueden realizar en diferentes instalaciones como viveros o semilleros, los cuales cuentan con alternativas de diseños y materiales de elaboración que dependen de las condiciones del lugar y del presupuesto; con características como semicirculares, elípticas, de una o dos aguas, ser construidos en bambú, hierro galvanizado, madera, aluminio; donde el techo puede ser en plástico o de vidrio, etc. Sin embargo, lo importante es que sean funcionales, resistentes y que tengan luminosidad.
       .BG01.p-md-5.p-4(titulo="Almácigos" :icono="require('@/assets/curso/tema2/img18.svg')")
         .row
@@ -190,12 +196,7 @@
             .h4 Protocolos de limpieza
             p.mb-0 Las cuales deben contar #[b con protocolos de limpieza (antes y después de su uso), calibración y mantenimiento ―preventivo y correctivo―] con el fin de que se cumpla con las condiciones óptimas que permitan que el proceso se desarrolle de manera exitosa.
 
-    .BGIMG03.p-4.mb-4(data-aos="flip-up")
-      .row.justify-content-center.align-items-center.mb-4
-        .col-lg-6.order-lg-1.order-2
-          p.mb-0 Hemos visto algunas características importantes de la labor de siembra en cuanto a herramientas y formas de proceder para el inicio del cultivo. Ahora, nos enfocaremos en detallar las observaciones más relevantes que deben tenerse en cuenta al momento de realizar la siembra.
-        .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src="@/assets/curso/tema2/img22.png")
+
 
 </template>
 

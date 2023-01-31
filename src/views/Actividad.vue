@@ -7,11 +7,12 @@
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
         .tarjeta.h-100.d-flex.align-items-center.p-4
           figure
-            img(src="@/assets/template/falso-verdadero.svg")
+            img(src="@/assets/template/falso_verdadero.svg")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Falso y verdadero
-        p.mb-4 Afianzar algunos conceptos sobre fisiología vegetal, morfología y arquitectura de la planta, propagación vegetal, sustratos, desinfectantes y siembra.
+          h2 Principios agroecológicos de la siembra
+        p.mb-4 Apreciado aprendiz, a continuación, encontrará una serie de preguntas que deberá resolver, con el objetivo de evaluar la aprehensión de los conocimientos expuestos en este componente formativo.
+
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
