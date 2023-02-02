@@ -20,9 +20,8 @@
 
     p En las labores de siembra, se hace indispensable realizar el trazado del terreno, según las características del cultivo y la pendiente o inclinación del terreno.
 
-    separador
-    #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 3.1 Técnicas y tipos de trazado
+    .row.mt-5
+      h3 Técnicas y tipos de trazado
 
     p Hay dos técnicas de siembra: #[b siembra directa y siembra indirecta o trasplante].
 
@@ -106,7 +105,6 @@
 
     
     .BGIMG04.p-md-5.p-4
-      p Una serie de requisitos o condiciones hace posible el logro de una adecuada germinación y el desarrollo de las plantas, requisitos relacionados con el estado y el alistamiento de las semillas, que a su vez deben ser tratadas y almacenadas de forma adecuada, además de estar en el término adecuado; es decir, frescas, y no haber excedido su fecha de caducidad o su período favorable de germinación. En general, las principales características para que las semillas sean de buena calidad son su sanidad, el vigor, el poder germinativo y la pureza física y varietal.
       
       ImagenInfografica.color-acento-botones.mb-5
         template(v-slot:imagen)
@@ -137,11 +135,10 @@
       .col-lg-10.cajon.color-secundario.p-4(data-aos="flip-up")
         p.mb-0 La actividad de siembra, la forma como se traza el terreno y/o los arreglos que se hacen en los cultivos, son medidas de eficiencia que permiten mejorar los rendimientos. Actualmente, se conocen algunas tecnologías que permiten ahorrar recursos, energía y mejorar la productividad de los cultivos.
 
-    separador
-    #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 3.3 Tecnologías para la siembra
+    .row.mt-5
+      h3 Tecnologías para la siembra
 
-    p.mb-5 Con la evolución y el avance tecnológico, más el auge de la conciencia ambiental, la sostenibilidad y eficiencia en el uso de recursos naturales, se emplean tecnologías que brindan mayor optimización y eficiencia en las labores culturales, en este caso, la siembra, mediante el uso de maquinaria y equipos con Global Positioning System (GPS).
+    p.mb-5 Con la evolución y el avance tecnológico, más el auge de la conciencia ambiental, la sostenibilidad y eficiencia en el uso de recursos naturales, se emplean tecnologías que brindan mayor optimización y eficiencia en las labores culturales, en este caso, la siembra, mediante el uso de maquinaria y equipos con <em>Global Positioning System</em> (GPS).
 
     p Para realizar el proceso de siembra, se requiere de maquinaria, herramientas, equipos, elementos y acciones como:
 

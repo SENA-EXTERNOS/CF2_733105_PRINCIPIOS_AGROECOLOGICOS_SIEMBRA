@@ -46,32 +46,6 @@ export default {
         numero: '3',
         titulo: 'Siembra',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Técnicas y tipos de trazado',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Condiciones para la siembra ',
-            hash: 't_3_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Arreglos productivos',
-            hash: 't_3_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.4',
-            titulo: 'Tecnologías para la siembra',
-            hash: 't_3_4',
-          },
-        ],
       },
     ],
     subMenu: [

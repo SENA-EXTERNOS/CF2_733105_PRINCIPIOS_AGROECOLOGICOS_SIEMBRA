@@ -15,7 +15,6 @@
         .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
           img(src="@/assets/curso/tema2/img01.png")
     
-      p.mt-5 Estos son algunos aspectos claves que se deben tener en cuenta, sobre la botánica:
 
       .BGIMG03.p-4.mb-4(data-aos="zoom-in")
         SlyderA(tipo="b")
@@ -51,7 +50,7 @@
           p.text-small(numero="5" titulo="Técnicas de estaca") Consisten en el corte de una porción de tallo, raíz u hoja que luego se coloca en condiciones ambientales específicas para inducir a la formación de raíces y tallos, de tal manera que se pueda obtener una planta independiente e igual a la madre.
           p.text-small(numero="6" titulo="Por acodo") Es provocar, mientras dura el enraizamiento, la formación de raíces en una porción de tallo que está todavía adherida a la planta madre.
 
-    p Adicional a los métodos de reproducción, es fundamental conocer el tipo de suelo o sustrato para el medio de enraizamiento donde vamos a reproducir el cultivo; esto con el fin de lograr su desarrollo óptimo. Se presentan enseguida unas características que resulta importante saber:
+    p Adicional a los métodos de reproducción, es fundamental conocer el tipo de suelo o sustrato para el medio de enraizamiento donde vamos a reproducir el cultivo; esto con el fin de lograr su desarrollo óptimo. 
 
     .row.mt-5
       h3 Sustratos y medios de enraizamiento
