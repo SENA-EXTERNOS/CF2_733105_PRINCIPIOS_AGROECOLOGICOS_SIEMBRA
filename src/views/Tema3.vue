@@ -35,8 +35,8 @@
             .row.justify-content-center
               .col-lg-9
                 .titulo-sexto.color-acento-contenido.mb-4
-                  h5 Figura 4
-                  span Tipos de siembra directa
+                  h5 Figura 4<br>
+                  p.mb-0 Tipos de siembra directa
             
             .row.justify-content-center
               .col-lg-3.col-4
@@ -158,27 +158,27 @@
                 ul.lista-ul--color
                   li
                     <i class="fas fa-snowflake" style="color:#81AD20;"></i>
-                    | Tipo de semilla
+                    | Tipo de semilla.
                   li
                     <i class="fas fa-snowflake" style="color:#81AD20;"></i>
                     | Periodo de siembra.
                   li
                     <i class="fas fa-snowflake" style="color:#81AD20;"></i>
-                    | Preparación del terreno
+                    | Preparación del terreno.
                   li
                     <i class="fas fa-snowflake" style="color:#81AD20;"></i>
-                    | Plazo de trasplante
+                    | Plazo de trasplante.
               .col-6
                 ul.lista-ul--color
                   li
                     <i class="fas fa-snowflake" style="color:#81AD20;"></i>
-                    | Marco de plantación
+                    | Marco de plantación.
                   li
                     <i class="fas fa-snowflake" style="color:#81AD20;"></i>
-                    | Fertilización
+                    | Fertilización.
                   li
                     <i class="fas fa-snowflake" style="color:#81AD20;"></i>
-                    | Cosecha
+                    | Cosecha.
 
     
     .row.justify-content-center.align-items-center
