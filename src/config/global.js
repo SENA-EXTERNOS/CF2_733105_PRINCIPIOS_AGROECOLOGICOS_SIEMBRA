@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Principios agroecológicos para la siembra',
     descripcionCurso:
-      'En este componente formativo se abordan temas que permiten conocer la fisiología de las plantas, su arquitectura, el desarrollo vegetativo y reproductivo; además se busca la comprensión de los procesos de propagación vegetal y siembra teniendo en cuenta las diversas técnicas y métodos existentes, así como las herramientas, equipos y utensilios requeridos según principios agroecológicos.',
+      'En este componente formativo se abordan temas que permiten conocer la fisiología de las plantas, su arquitectura, el desarrollo vegetativo y reproductivo; además se busca la comprensión de los procesos de propagación vegetal y siembra, teniendo en cuenta las diversas técnicas y métodos existentes, así como las herramientas, equipos y utensilios requeridos según principios agroecológicos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [

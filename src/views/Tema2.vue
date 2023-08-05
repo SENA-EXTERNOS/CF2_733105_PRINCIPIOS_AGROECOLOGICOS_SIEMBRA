@@ -61,8 +61,7 @@
 
     
     .BGIMG04.p-md-5.p-4
-      p Los sustratos son materiales que reemplazan las funciones del suelo. Sirven como anclaje y enraizamiento del cultivo y suministro de nutrientes, agua y oxígeno.
-      
+     
       .row.justify-content-center.mb-4
         .col-lg-3.col-md-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
           .tarjeta-avatar
@@ -97,7 +96,7 @@
               p.mb-0.text-center Bajo costo.
               p.mb-0.text-center Facilidad para preparar y mezclar.
               p.mb-0.text-center Simple y estable proceso de desinfección.
-              p.mb-0.text-center Resistente a cambio ambientales y externos.
+              p.mb-0.text-center Resistente a cambios ambientales y externos.
 
     .row.mt-3
       p Sobre los sustratos y los medios de enraizamiento, es importante tener en cuenta, algunas consideraciones. A continuación, se enuncian dichas consideraciones, de las cuales se recomienda que tome nota en su libreta personal de apuntes:
@@ -154,7 +153,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-6.order-lg-1.order-2
             .h4 Proceso de desinfección
-            p En conclusión, para llevar a cabo el proceso de desinfección es fundamental seleccionar el método más apropiado y emplear productos adecuados y en concentraciones indicadas; además se deben analizar los posibles impactos que se generan en la salud, el medio ambiente y el material vegetal, pues al ser sometidos a los distintos métodos se pierden nutrientes y condiciones apropiadas para el desarrollo de las plantas.
+            p En conclusión, para llevar a cabo el proceso de desinfección es fundamental seleccionar el método más apropiado y emplear productos adecuados y en concentraciones indicadas; además, se deben analizar los posibles impactos que se generan en la salud, el medio ambiente y el material vegetal, pues al ser sometidos a los distintos métodos se pierden nutrientes y condiciones apropiadas para el desarrollo de las plantas.
             p.mb-0 También es importante indicar que la desinfección no siempre es necesaria, en gran parte depende del sustrato y del tipo de material vegetal que se vaya a propagar.
           .col-lg-4.col-6.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema2/img16.png") 

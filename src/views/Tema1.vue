@@ -24,7 +24,7 @@
         p.mb-0 La botánica, por medio de estas áreas de conocimiento, además de estudiar el desarrollo de las plantas a nivel morfológico, sistemático y fisiológico, cumple funciones primordiales que contribuyen al desarrollo ambiental, social y económico al permitir comprender la evolución de la vida en La Tierra, pues se puede pensar que el desarrollo y distribución de las plantas creó un ambiente adecuado para que se desarrollaran y evolucionaran otras especies y animales en diferentes grados de organización.
       .BGR01.p-md-5.p-4(titulo="Planificación")
         .h4 Planificación
-        p.mb-0 Adicionalmente, conocer la forma de interacción de las especies permite establecer herramientas de manejo y conservación de los ecosistemas y evaluar parámetros de crecimiento, mortalidad y extinción con el fin de determinar criterios de cuidado y mejoramiento de las condiciones de vida que propicien un uso sostenible de la biodiversidad.
+        p.mb-0 Adicionalmente, conocer la forma de interacción de las especies permite establecer herramientas de manejo y conservación de los ecosistemas y evaluar parámetros de crecimiento, mortalidad y extinción, con el fin de determinar criterios de cuidado y mejoramiento de las condiciones de vida que propicien un uso sostenible de la biodiversidad.
       .BGR01.p-md-5.p-4(titulo="Herramientas de gestión")
         .h4 Herramientas de gestión
         p.mb-0 Por tanto, la botánica proporciona herramientas claves sobre el estudio, distribución y funcionalidad de las plantas, lo que contribuye de forma directa a la existencia de la vida. Las plantas son fundamentales porque proporcionan alimento, generan oxígeno, captan dióxido de carbono, brindan propiedades medicinales, contribuyen al desarrollo industrial (proporcionan materia prima) y ambiental (indicadores de contaminación), además permiten resolver problemas de la agricultura al llevar a cabo mejoramiento de las especies (resistencia, colores, tamaños) y conservación de áreas (especies recuperadoras).
@@ -34,7 +34,7 @@
         img(src="@/assets/curso/tema1/img02.png")
       .col-lg-7(data-aos="fade-left")
         .cajon.color-primario.p-4
-          p.mb-0 Así como la botánica estudia las plantas y las familias o especies, la fisiología vegetal es una apartado de la botánica, que describe la forma como respiran y se alimentan las plantas. Esta área es importante porque de ella depende la forma como absorben los nutrientes, y sus requerimientos en cuanto a crecimiento y desarrollo vegetativo se refiere.
+          p.mb-0 Así como la botánica estudia las plantas y las familias o especies, la fisiología vegetal es un apartado de la botánica, que describe la forma como respiran y se alimentan las plantas. Esta área es importante porque de ella depende la forma como absorben los nutrientes, y sus requerimientos en cuanto a crecimiento y desarrollo vegetativo se refiere.
           
     .row.mt-5
       h3 Fisiología vegetal
@@ -72,7 +72,7 @@
         .row.justify-content-around.align-items-center.p-md-4.p-3(titulo="Formas de crecimiento")
           .col-lg-6.order-lg-1.order-2
             .h4 Formas de crecimiento
-            p.mb-0 Sin embargo, es importante resaltar que #[b existe gran variación de hábitos y formas de crecimiento] debido a la amplia gama de especies y condiciones ambientales; por ejemplo, al comparar las hojas del mismo árbol estas pueden tener constitución, forma, tamaño, color y composición diferentes, producto de que estas se desarrollan en ambientes (grado de iluminación) igualmente distintos. Por lo tanto, #[b las plantas están en constante y permanente desarrollo y adaptación al entorno y al hábitat].
+            p.mb-0 Sin embargo, es importante resaltar que #[b existe gran variación de hábitos y formas de crecimiento] debido a la amplia gama de especies y condiciones ambientales; por ejemplo, al comparar las hojas del mismo árbol, estas pueden tener constitución, forma, tamaño, color y composición diferentes, producto de que estas se desarrollan en ambientes (grado de iluminación) igualmente distintos. Por lo tanto, #[b las plantas están en constante y permanente desarrollo y adaptación al entorno y al hábitat].
           .col-lg-2.col-3.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img07.png")
 
@@ -90,18 +90,18 @@
         template(v-slot:imagen)
           figure
             img(src='@/assets/curso/tema1/img08.svg')
-        .BGR02.p-3(x="7%" y="48%" numero="1")
+        .BGR02.p-3(x="27%" y="80%" numero="1")
           .h5.mb-2 Semillas y Germinación
           p.mb-0 El desarrollo se da a través de una operación organizada que requiere de un gran número de señales y abarca específicamente dos procesos esenciales de las plantas: el crecimiento y la diferenciación. El crecimiento hace referencia al conjunto de cambios cuantitativos que se dan de forma gradual y progresiva en lo concerniente al tamaño; la diferenciación tiene que ver con los cambios de tipo cualitativo que están relacionados con la estructura y función. En conclusión, dichos cambios permiten la transformación de un zigoto en una planta completa, capaz de reproducirse.
 
-        .BGR02.p-3(x="27%" y="80%" numero="2")
+        .BGR02.p-3(x="7%" y="48%" numero="2")
           .h5.mb-2 Formación de semillas
           p.mb-0 Durante el crecimiento, la planta incrementa de forma irreversible su tamaño y volumen por el alargamiento o expansión celular, pero para que la planta no solo crezca, sino que también alcance su desarrollo, se requiere que las células se especializan, lo que genera cambios denominados conocidos como diferenciación.
           
-        .BGR02.p-3(x="67%" y="88%" numero="3")
+        .BGR02.p-3(x="20%" y="12%" numero="3")
           .h5.mb-2 Germinación y desarrollo vegetativo
           p.mb-0 Pero el proceso de desarrollo, a pesar de ser una operación organizada, cuenta con gran variedad de formas y hábitos de crecimiento que son producto de las distintas especies existentes y de los cambios de las condiciones ambientales. Esto conlleva a que las plantas deben garantizar durante todo su crecimiento la obtención en cantidades apropiadas de materia y energía; por lo tanto, requieren de una evolución constante y la adaptación de sus partes: las raíces, encargadas de obtener del suelo el agua y los nutrientes; y el tallo y las hojas, que emplean de forma directa la energía luminosa.
-        .BGR02.p-3(x="90%" y="50%" numero="4")
+        .BGR02.p-3(x="88%" y="15%" numero="4")
           .h5.mb-2 Floración, fructificación y senescencia
           p.mb-0 El desarrollo de las plantas se caracteriza por el crecimiento a lo largo de toda su existencia y la construcción de su forma y arquitectura. #[b Al finalizar la formación] del embrión en semilla, tras la germinación nace una plántula, con tallo y raíz, mediante un grupo de células inicia el crecimiento de la parte aérea de la planta y luego da paso al proceso de floración. Aquí finaliza el crecimiento del tallo, cuando nace la flor y se da inicio a la fase reproductiva y al proceso de fructificación, que es donde se origina la formación de los frutos por medio de la fecundación del ovario de la flor, lo que origina que esta se convierta en fruto.
         
@@ -138,7 +138,7 @@
             .BGR02.p-3(x="78%" y="15%" numero="3")
               .h5.mb-2 Hojas
               p Encargadas de la respiración, transpiración y la síntesis de compuestos orgánicos por medio de la fotosíntesis, debido a que las hojas son capaces de absorber los rayos del sol. 
-              p.mb-0 Sus partes:  lámina o limbo es la parte ensanchada de la hoja donde se puede observar el haz (cara superior) y el envés ( Cara inferior), el peciolo parte cilíndrica y base que es donde se une el peciolo con el tallo.
+              p.mb-0 Sus partes:  lámina o limbo es la parte ensanchada de la hoja donde se puede observar el haz (cara superior) y el envés (Cara inferior), el peciolo, parte cilíndrica y base que es donde se une el peciolo con el tallo.
             .BGR02.p-3(x="77%" y="45%" numero="4")
               .h5.mb-2 Flor
               p Estructura reproductiva de las plantas. Su función es la producción de semillas.
