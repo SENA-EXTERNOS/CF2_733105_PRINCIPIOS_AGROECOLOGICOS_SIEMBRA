@@ -106,14 +106,6 @@ export default {
         'http://cienciasforestales.inifap.gob.mx/index.php/forestales/article/view/998/2303',
     },
     {
-      tema: 'Propagación vegetal',
-      referencia:
-        'Sisaro, D. y Hagiwara, J. C. (2018). <em>Propagación vegetativa por medio de estacas del tallo</em>. 1a ed. Ediciones INTA.',
-      tipo: 'Cartilla',
-      link:
-        'https://inta.gob.ar/sites/default/files/inta-_propagacion_vegetativa_por_medio_de_estacas_de_tallo.pdf',
-    },
-    {
       tema: 'Siembra',
       referencia:
         'Bravo, C., Lozano, Z., Hernández-Hernández, R. M., Cánchica, H., & González, I. (2008). Siembra directa como alternativa agroecológica para la transición hacia la sostenibilidad de las sábanas. <em>Acta biológica Venezuela, 28</em>(1), p. 15-28.',
@@ -192,14 +184,9 @@ export default {
     },
     {
       referencia:
-        'Robles, S., Caro, E., Guacaneme, C., Medina, M. & Cerón, M. (2022). <em>Establecimiento y manejo del cultivo de cacao en economías familiares.</em>',
-      link: '',
-    },
-    {
-      referencia:
         'Rodas, S. Y. R., Caro-Tovar, E., Guacaneme-Barrera, C. M., Medina-Sierra, M., & Cerón-Muñoz, M. F. (2022). <em>Establecimiento y manejo del cultivo de cacao en economías familiares</em>. Fondo Editorial Biogénesis. ',
       link:
-        'https://revistas.udea.edu.co/index.php/biogenesis/article/view/347506',
+        'hhttps://revistas.udea.edu.co/index.php/biogenesis/article/view/347506/20807936',
     },
     {
       referencia:
