@@ -186,7 +186,7 @@ export default {
       referencia:
         'Rodas, S. Y. R., Caro-Tovar, E., Guacaneme-Barrera, C. M., Medina-Sierra, M., & Cerón-Muñoz, M. F. (2022). <em>Establecimiento y manejo del cultivo de cacao en economías familiares</em>. Fondo Editorial Biogénesis. ',
       link:
-        'hhttps://revistas.udea.edu.co/index.php/biogenesis/article/view/347506/20807936',
+        'https://revistas.udea.edu.co/index.php/biogenesis/article/view/347506/20807936',
     },
     {
       referencia:

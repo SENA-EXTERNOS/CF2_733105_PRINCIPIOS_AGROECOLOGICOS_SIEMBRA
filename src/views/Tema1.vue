@@ -91,12 +91,12 @@
           figure
             img(src='@/assets/curso/tema1/img08.svg')
         .BGR02.p-3(x="27%" y="80%" numero="1")
-          .h5.mb-2 Semillas y Germinación
-          p.mb-0 El desarrollo se da a través de una operación organizada que requiere de un gran número de señales y abarca específicamente dos procesos esenciales de las plantas: el crecimiento y la diferenciación. El crecimiento hace referencia al conjunto de cambios cuantitativos que se dan de forma gradual y progresiva en lo concerniente al tamaño; la diferenciación tiene que ver con los cambios de tipo cualitativo que están relacionados con la estructura y función. En conclusión, dichos cambios permiten la transformación de un zigoto en una planta completa, capaz de reproducirse.
-
-        .BGR02.p-3(x="7%" y="48%" numero="2")
           .h5.mb-2 Formación de semillas
-          p.mb-0 Durante el crecimiento, la planta incrementa de forma irreversible su tamaño y volumen por el alargamiento o expansión celular, pero para que la planta no solo crezca, sino que también alcance su desarrollo, se requiere que las células se especializan, lo que genera cambios denominados conocidos como diferenciación.
+            p.mb-0 Durante el crecimiento, la planta incrementa de forma irreversible su tamaño y volumen por el alargamiento o expansión celular, pero para que la planta no solo crezca, sino que también alcance su desarrollo, se requiere que las células se especializan, lo que genera cambios denominados conocidos como diferenciación.
+
+        .BGR02.p-3(x="7%" y="48%" numero="2")        
+          .h5.mb-2 Semillas y Germinación
+            p.mb-0 El desarrollo se da a través de una operación organizada que requiere de un gran número de señales y abarca específicamente dos procesos esenciales de las plantas: el crecimiento y la diferenciación. El crecimiento hace referencia al conjunto de cambios cuantitativos que se dan de forma gradual y progresiva en lo concerniente al tamaño; la diferenciación tiene que ver con los cambios de tipo cualitativo que están relacionados con la estructura y función. En conclusión, dichos cambios permiten la transformación de un zigoto en una planta completa, capaz de reproducirse.
           
         .BGR02.p-3(x="20%" y="12%" numero="3")
           .h5.mb-2 Germinación y desarrollo vegetativo
