@@ -55,9 +55,9 @@
     .row.mt-5
       h3 Sustratos y medios de enraizamiento
 
-      p Los sustratos son materiales que reemplazan las funciones del suelo. Sirven como anclaje y enraizamiento del cultivo y suministro de nutrientes, agua y oxígeno, entre otras.
+      p Los sustratos son materiales que reemplazan las funciones del suelo. Sirven como anclaje, enraizamiento del cultivo y suministro de nutrientes, agua y oxígeno, entre otras.
 
-      p Las siguientes, son algunas de las características y propiedades más importantes, de los sustratos:
+      p Las siguientes son algunas de las características y propiedades más importantes de los sustratos:
 
     
     .BGIMG04.p-md-5.p-4
@@ -99,7 +99,7 @@
               p.mb-0.text-center Resistente a cambios ambientales y externos.
 
     .row.mt-3
-      p Sobre los sustratos y los medios de enraizamiento, es importante tener en cuenta, algunas consideraciones. A continuación, se enuncian dichas consideraciones, de las cuales se recomienda que tome nota en su libreta personal de apuntes:
+      p Sobre los sustratos y los medios de enraizamiento, es importante tener en cuenta algunas consideraciones. A continuación, se enuncian dichas consideraciones, de las cuales se recomienda que tome nota en su libreta personal de apuntes:
 
     AcordionA.mb-5(tipo="b" clase-tarjeta="BGR06")
       .row.justify-content-center.align-items-center(titulo="Producción del material vegetal")
@@ -135,13 +135,13 @@
         .row.justify-content-center.align-items-center
           .col-lg-6.order-lg-1.order-2
             .h4 Selección del desinfectante
-            p.mb-0 A la hora de seleccionar el desinfectante es importante tener presente que este debe combatir bacterias, virus, hongos, nematodos y demás agentes patógenos, pero a la vez que debe ser seguro para las personas y de bajo impacto para los equipos, entorno y plantas; es decir, que no sea irritante ni tóxico ni corrosivo.
+            p.mb-0 A la hora de seleccionar el desinfectante es importante tener presente que este debe combatir bacterias, virus, hongos, nematodos y demás agentes patógenos, pero a la vez que debe ser seguro para las personas y de bajo impacto para los equipos, entorno y plantas; es decir, que no sea irritante, ni tóxico, ni corrosivo.
           .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema2/img13.png")
         .row.justify-content-center.align-items-center
           .col-lg-6.order-lg-1.order-2
             .h4 Compuestos químicos
-            p.mb-0 Como señala Villegas Villegas, I. (2018), existen diversos tipos y técnicas, por ejemplo, la desinfección química que emplea compuestos que permiten acortar el tiempo del proceso, que no obstante tener una elevada eficacia insecticida, nematicida, fungicida y herbicida, a la hora de seleccionarlos es importante analizar sus efectos en la salud y el medio ambiente; de ahí que sea una opción la combinación de métodos a fin de disminuir la dosis de los compuestos químicos.
+            p.mb-0 Como señala Villegas Villegas I. (2018), existen diversos tipos y técnicas; por ejemplo, la desinfección química que emplea compuestos que permiten acortar el tiempo del proceso, que, no obstante puede tener una elevada eficacia insecticida, nematicida, fungicida y herbicida. A la hora de seleccionarlos es importante analizar sus efectos en la salud y el medio ambiente; de ahí que sea una opción la combinación de métodos a fin de disminuir la dosis de los compuestos químicos.
           .col-lg-4.col-6.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema2/img14.png") 
         .row.justify-content-center.align-items-center

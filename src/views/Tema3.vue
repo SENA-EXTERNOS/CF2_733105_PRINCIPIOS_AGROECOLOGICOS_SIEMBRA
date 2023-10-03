@@ -101,7 +101,7 @@
 
       p En general, las principales características para que las semillas sean de buena calidad son: su sanidad, el vigor, el poder germinativo y la pureza física y varietal.
 
-      p Las siguientes, son las condiciones más importantes, para tener en cuenta, en la siembra y utilidad de las semillas:
+      p Las siguientes, son las condiciones más importantes para tener en cuenta en la siembra y utilidad de las semillas:
 
     
     .BGIMG04.p-md-5.p-4
@@ -111,8 +111,8 @@
           figure
             img(src='@/assets/curso/tema3/img10.svg')
         .BGR02.p-3(x="40%" y="6.5%" numero="1")
-          .h5.mb-2 Factores Ambientales
-          p.mb-0 También son importantes y juegan un papel fundamental en la siembra, a fin de que las semillas germinen sin contratiempos, las características y la adecuada preparación del suelo y las condiciones ambientales favorables. 
+          .h5.mb-2 Factores ambientales
+          p.mb-0 También son importantes y juegan un papel fundamental en la siembra, a fin de que las semillas germinen sin contratiempos: las características y la adecuada preparación del suelo y las condiciones ambientales favorables. 
         .BGR02.p-3(x="45%" y="39%" numero="2")
           .h5.mb-2 Humedad
           p.mb-0 Debe ser suficiente, del suelo o sustrato, para que no haya que regar las semillas durante 7 a 10 días. 
@@ -148,11 +148,11 @@
       .col-lg-7(data-aos="fade-left")
         AcordionA.mb-5(tipo="a" clase-tarjeta="BGR08")
           div(titulo="Procesos y tecnologías que permiten la planeación")
-            p.mb-0 Además, día a día se incluyen procesos y tecnologías que permiten la planeación; esto implica la determinación de lo que se quiere realizar, incluyendo las decisiones de gran importancia, como el establecimiento de objetivos, programas, definición de técnicas, métodos, procedimientos y demás prioridades dentro del proceso de siembra. Es importante identificar, entonces, las acciones a desarrollar a través de una secuencia lógica y ordenada que permita obtener resultados exitosos.
+            p.mb-0 Día a día se incluyen procesos y tecnologías que permiten la planeación; esto implica la determinación de lo que se quiere realizar, incluyendo las decisiones de gran importancia como el establecimiento de objetivos, programas, definición de técnicas, métodos, procedimientos y demás prioridades dentro del proceso de siembra. Es importante identificar entonces, las acciones a desarrollar a través de una secuencia lógica y ordenada que permita obtener resultados exitosos.
           div(titulo="Registro organizado de las actividades desarrolladas")
             p.mb-0 Se requiere que el productor lleve un registro organizado de las actividades desarrolladas, por eso es indispensable el diseño de los formatos que permitan plasmar la información recolectada, que debe estar disponible en físico y sistematizada para tecnificar el proceso y evitar retrasos en la ejecución de las actividades que generen un desequilibrio y pérdidas productivas. Resulta indispensable planear perfectamente el proceso, reducir los contratiempos y lograr que el proceso se realice de manera eficiente y eficaz.
           div(titulo="Diligenciar formatos")
-            p El diligenciamiento de estos formatos va enlazado con el cronograma que permite establecer una guía de las temporadas del año y las condiciones de siembra en cada una con el fin de establecer un alto porcentaje de crecimiento y desarrollo del cultivo. Se debe tener en cuenta:
+            p El diligenciamiento de estos formatos va enlazado con el cronograma que permite establecer una guía de las temporadas del año y las condiciones de siembra en cada una, con el fin de establecer un alto porcentaje de crecimiento y desarrollo del cultivo. Se debe tener en cuenta:
             .row.justify-content-center
               .col-6
                 ul.lista-ul--color

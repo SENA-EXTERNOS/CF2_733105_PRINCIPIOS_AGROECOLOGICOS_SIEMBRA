@@ -16,7 +16,7 @@
         img(src="@/assets/curso/tema1/img01.png")
     
     .row.mt-5
-      p Estos son algunos aspectos claves que se deben tener en cuenta, sobre la botánica:
+      p Estos son algunos aspectos claves que se deben tener en cuenta sobre la botánica:
 
     TabsA.color-secundario.mb-5(data-aos="zoom-in")
       .BGR01.p-md-5.p-4(titulo="Desarrollo de las plantas")
@@ -76,7 +76,7 @@
           .col-lg-2.col-3.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img07.png")
 
-    p Cuando hablamos de desarrollo vegetativo de las plantas se especifica la manera como se alimentan e interactúan en el ecosistema y cuál es su ciclo reproductivo para la etapa de semillas y cultivo.
+    p Cuando hablamos de desarrollo vegetativo de las plantas, se especifica la manera como se alimentan e interactúan en el ecosistema y cuál es su ciclo reproductivo para la etapa de semillas y cultivo.
 
     .row.mt-5
       h3 Crecimiento y desarrollo vegetativo
@@ -92,10 +92,10 @@
             img(src='@/assets/curso/tema1/img08.svg')
         .BGR02.p-3(x="27%" y="80%" numero="1")
           .h5.mb-2 Formación de semillas
-            p.mb-0 Durante el crecimiento, la planta incrementa de forma irreversible su tamaño y volumen por el alargamiento o expansión celular, pero para que la planta no solo crezca, sino que también alcance su desarrollo, se requiere que las células se especializan, lo que genera cambios denominados conocidos como diferenciación.
+            p.mb-0 Durante el crecimiento, la planta incrementa de forma irreversible su tamaño y volumen por el alargamiento o expansión celular, pero para que la planta no solo crezca, sino que también alcance su desarrollo, se requiere que las células se especialicen, lo que genera cambios denominados conocidos como diferenciación.
 
         .BGR02.p-3(x="7%" y="48%" numero="2")        
-          .h5.mb-2 Semillas y Germinación
+          .h5.mb-2 Semillas y germinación
             p.mb-0 El desarrollo se da a través de una operación organizada que requiere de un gran número de señales y abarca específicamente dos procesos esenciales de las plantas: el crecimiento y la diferenciación. El crecimiento hace referencia al conjunto de cambios cuantitativos que se dan de forma gradual y progresiva en lo concerniente al tamaño; la diferenciación tiene que ver con los cambios de tipo cualitativo que están relacionados con la estructura y función. En conclusión, dichos cambios permiten la transformación de un zigoto en una planta completa, capaz de reproducirse.
           
         .BGR02.p-3(x="20%" y="12%" numero="3")
@@ -138,7 +138,7 @@
             .BGR02.p-3(x="78%" y="15%" numero="3")
               .h5.mb-2 Hojas
               p Encargadas de la respiración, transpiración y la síntesis de compuestos orgánicos por medio de la fotosíntesis, debido a que las hojas son capaces de absorber los rayos del sol. 
-              p.mb-0 Sus partes:  lámina o limbo es la parte ensanchada de la hoja donde se puede observar el haz (cara superior) y el envés (Cara inferior), el peciolo, parte cilíndrica y base que es donde se une el peciolo con el tallo.
+              p.mb-0 Sus partes:  lámina o limbo es la parte ensanchada de la hoja donde se puede observar el haz (cara superior) y el envés (cara inferior), el peciolo, parte cilíndrica y base que es donde se une el peciolo con el tallo.
             .BGR02.p-3(x="77%" y="45%" numero="4")
               .h5.mb-2 Flor
               p Estructura reproductiva de las plantas. Su función es la producción de semillas.
